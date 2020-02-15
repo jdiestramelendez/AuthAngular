@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorldCities.Tests", "WorldC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthSample", "AuthSample\AuthSample.csproj", "{2AFA029B-E93E-47D8-87BD-FEC8A88A0277}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthSample2", "AuthSample2\AuthSample2.csproj", "{2BFA029B-E93E-47D8-87BD-FEC8A88A0277}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2AFA029B-E93E-47D8-87BD-FEC8A88A0277}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AFA029B-E93E-47D8-87BD-FEC8A88A0277}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AFA029B-E93E-47D8-87BD-FEC8A88A0277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BFA029B-E93E-47D8-87BD-FEC8A88A0277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFA029B-E93E-47D8-87BD-FEC8A88A0277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFA029B-E93E-47D8-87BD-FEC8A88A0277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFA029B-E93E-47D8-87BD-FEC8A88A0277}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
